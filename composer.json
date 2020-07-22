@@ -9,12 +9,11 @@
         }
     ],
     "require": {
-        "php": ">=7.1.0",
         "phpmailer/phpmailer": "^6.1"
     },
     "autoload": {
         "psr-4": {
-            "careyshop\\Ip2Region\\": "src"
+            "careyshop\\": "src"
         }
     }
 }
